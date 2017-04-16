@@ -1,0 +1,5 @@
+xcodeproj 'ContatosIP67.xcodeproj'
+
+platform :ios, '6.1'
+
+pod 'TPKeyboardAvoiding', '1.2.1' 
